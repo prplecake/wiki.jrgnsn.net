@@ -1,10 +1,14 @@
 ---
 title: Self Hosting
+description: 
+published: true
+date: 2021-04-07T17:43:20.380Z
+tags: 
+editor: markdown
+dateCreated: 2021-04-07T15:33:56.039Z
 ---
 
-I self-host several different services. The installation processes I
-used, *gotchas* I ran into, configurations, and whatever else are
-documented here.
+I self-host several different services. The installation processes I used, *gotchas* I ran into, configurations, and whatever else are documented here.
 
 # Current
 
