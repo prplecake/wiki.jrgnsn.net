@@ -7,7 +7,7 @@ I do a lot of things. Here's central location to find out information about thos
 * [Matthew's Blog][blog]
 * You can find my code at https://git.sr.ht/~mjorgensen.
 * I self-host a lot of different web services, you can find out more
-about what I [self-host](/Self-Hosting).
+about what I [self-host](/Self_Hosting).
 
 [blog]:https://jrgnsn.net/
 
