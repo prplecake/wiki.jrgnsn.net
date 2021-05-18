@@ -1,11 +1,5 @@
 ---
 title: CGit
-description: 
-published: true
-date: 2021-04-07T16:38:19.994Z
-tags: cgit, git
-editor: markdown
-dateCreated: 2021-04-07T15:43:36.182Z
 ---
 
 [CGit](https://git.zx2c4.com/cgit/) - "A hyperfast web frontend for git repositories written in C."

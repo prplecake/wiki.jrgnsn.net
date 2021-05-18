@@ -1,11 +1,5 @@
 ---
 title: Pizza Sauce
-description: 
-published: true
-date: 2021-04-07T18:26:12.270Z
-tags: recipe, pizza, sauce
-editor: markdown
-dateCreated: 2021-04-07T18:26:06.455Z
 ---
 
 # Ingredients

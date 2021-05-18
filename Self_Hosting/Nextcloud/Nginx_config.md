@@ -1,11 +1,5 @@
 ---
 title: Nginx config
-description: 
-published: true
-date: 2021-04-07T16:38:59.096Z
-tags: nginx
-editor: markdown
-dateCreated: 2021-04-07T15:57:40.479Z
 ---
 
 ```nginx

@@ -1,11 +1,5 @@
 ---
 title: Pi-hole
-description: 
-published: true
-date: 2021-04-07T23:26:09.041Z
-tags: pi-hole
-editor: markdown
-dateCreated: 2021-04-07T23:26:09.041Z
 ---
 
 [Pi-hole](https://pi-hole.net/) Network-wide Ad Blocking

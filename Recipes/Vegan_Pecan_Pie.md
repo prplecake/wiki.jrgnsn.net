@@ -1,11 +1,5 @@
 ---
 title: Vegan Pecan Pie
-description: 
-published: true
-date: 2021-04-07T18:11:32.777Z
-tags: recipe, baking, pie
-editor: markdown
-dateCreated: 2021-04-07T18:11:27.223Z
 ---
 
 # Ingredients

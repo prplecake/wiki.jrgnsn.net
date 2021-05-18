@@ -1,11 +1,5 @@
 ---
 title: DokuWiki
-description: 
-published: true
-date: 2021-04-07T16:39:17.610Z
-tags: dokuwiki, software/wiki
-editor: markdown
-dateCreated: 2021-04-07T16:24:14.371Z
 ---
 
 # Installing DokuWiki on Debian 9 (Stretch) or Ubuntu 18.04 (Bionic Beaver)

@@ -1,11 +1,5 @@
 ---
 title: Izzy's Excellent Vegan Chocolate Chip Cookies
-description: 
-published: true
-date: 2021-04-07T18:06:32.399Z
-tags: recipe, cookies, baking
-editor: markdown
-dateCreated: 2021-04-07T18:06:26.738Z
 ---
 
 # Ingredients

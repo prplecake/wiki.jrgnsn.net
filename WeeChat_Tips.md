@@ -1,11 +1,5 @@
 ---
 title: WeeChat Tips
-description: 
-published: true
-date: 2021-04-07T18:48:03.242Z
-tags: irc, weechat
-editor: markdown
-dateCreated: 2021-04-07T18:47:57.941Z
 ---
 
 # How to use command line/input bar with more than one line?

@@ -1,11 +1,5 @@
 ---
 title: Nextcloud
-description: 
-published: true
-date: 2021-04-07T16:38:53.473Z
-tags: nextcloud
-editor: markdown
-dateCreated: 2021-04-07T15:56:40.829Z
 ---
 
 # Local Caching[^1]

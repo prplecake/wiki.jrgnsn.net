@@ -1,11 +1,5 @@
 ---
 title: Pi-hole Incident: March 2020
-description: 
-published: true
-date: 2021-04-07T23:30:45.509Z
-tags: pi-hole
-editor: markdown
-dateCreated: 2021-04-07T23:30:45.509Z
 ---
 
 I set up a Pi-hole on a much better server than my [Raspberry Pi](/Sysadmin/Raspberry_Pi)s have ever made.

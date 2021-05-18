@@ -1,11 +1,5 @@
 ---
 title: Sysadmin Knowledge Base
-description: 
-published: true
-date: 2021-04-07T18:48:06.093Z
-tags: 
-editor: markdown
-dateCreated: 2021-04-07T18:45:40.340Z
 ---
 
 * [WeeChat Tips](/WeeChat_Tips)

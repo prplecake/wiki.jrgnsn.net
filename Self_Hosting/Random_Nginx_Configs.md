@@ -1,11 +1,5 @@
 ---
 title: Random Nginx Configs
-description: 
-published: true
-date: 2021-04-07T16:39:04.970Z
-tags: nginx
-editor: markdown
-dateCreated: 2021-04-07T16:14:11.619Z
 ---
 
 `nginx.conf`:

@@ -1,11 +1,5 @@
 ---
 title: FFmpeg Tips & Tricks
-description: 
-published: true
-date: 2021-04-07T16:39:29.594Z
-tags: ffmpeg
-editor: markdown
-dateCreated: 2021-04-07T16:34:29.368Z
 ---
 
 # Split Video File

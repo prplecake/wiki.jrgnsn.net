@@ -1,11 +1,5 @@
 ---
 title: FreshRSS Nginx config
-description: 
-published: true
-date: 2021-04-07T17:25:56.340Z
-tags: nginx
-editor: markdown
-dateCreated: 2021-04-07T17:25:51.406Z
 ---
 
 > To use this configuration, you’ll need to create the directory `/var/log/nginx/freshrss`.

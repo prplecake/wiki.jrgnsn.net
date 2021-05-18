@@ -1,11 +1,5 @@
 ---
 title: Vegan Peanut Butter Cookies
-description: 
-published: true
-date: 2021-04-07T18:23:41.185Z
-tags: recipe, cookies, vegan
-editor: markdown
-dateCreated: 2021-04-07T18:23:35.498Z
 ---
 
 # Ingredients

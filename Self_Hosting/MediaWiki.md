@@ -1,11 +1,5 @@
 ---
 title: MediaWiki
-description: 
-published: true
-date: 2021-04-07T16:39:11.780Z
-tags: mediawiki
-editor: markdown
-dateCreated: 2021-04-07T16:18:21.450Z
 ---
 
 # Configuration

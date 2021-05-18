@@ -1,11 +1,5 @@
 ---
 title: Config files
-description: 
-published: true
-date: 2021-04-07T16:38:31.513Z
-tags: nginx, systemd
-editor: markdown
-dateCreated: 2021-04-07T15:47:47.907Z
 ---
 
 ## nginx

@@ -1,11 +1,5 @@
 ---
 title: Allow Non-Root Access to Let's Encrypt Certificates
-description: 
-published: true
-date: 2021-04-07T16:38:36.881Z
-tags: let's encrypt
-editor: markdown
-dateCreated: 2021-04-07T15:49:32.939Z
 ---
 
 This guide assumes you're using EFF's [Certbot](https://certbot.eff.org/).

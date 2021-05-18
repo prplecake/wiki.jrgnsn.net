@@ -1,11 +1,5 @@
 ---
 title: live.jrgnsn.net
-description: 
-published: true
-date: 2021-04-07T16:38:03.088Z
-tags: needs-update
-editor: markdown
-dateCreated: 2021-04-07T15:38:17.071Z
 ---
 
 Download nginx:

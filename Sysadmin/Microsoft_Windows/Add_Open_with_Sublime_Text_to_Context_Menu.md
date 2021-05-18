@@ -1,11 +1,5 @@
 ---
 title: Add "Open with Sublime Text" to Context Menu
-description: 
-published: true
-date: 2021-04-08T15:06:07.615Z
-tags: sublime text, microsoft, windows
-editor: markdown
-dateCreated: 2021-04-08T15:06:07.615Z
 ---
 
 ```batch

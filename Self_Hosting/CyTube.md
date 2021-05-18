@@ -1,11 +1,5 @@
 ---
 title: CyTube
-description: 
-published: true
-date: 2021-04-07T16:38:25.803Z
-tags: cytube
-editor: markdown
-dateCreated: 2021-04-07T15:46:13.018Z
 ---
 
 > Node.JS Server and JavaScript/HTML Client for synchronizing online media

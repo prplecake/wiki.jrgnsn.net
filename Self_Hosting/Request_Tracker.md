@@ -1,11 +1,5 @@
 ---
 title: Request Tracker
-description: 
-published: true
-date: 2021-04-07T17:43:16.417Z
-tags: nginx, request-tracker, rt, rtir
-editor: markdown
-dateCreated: 2021-04-07T17:43:11.061Z
 ---
 
 # Removing RTIR

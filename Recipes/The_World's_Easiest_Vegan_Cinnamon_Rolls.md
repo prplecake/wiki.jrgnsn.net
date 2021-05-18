@@ -1,11 +1,5 @@
 ---
 title: The World's Easiest Vegan Cinnamon Rolls
-description: 
-published: true
-date: 2021-04-07T18:20:45.310Z
-tags: recipe, baking
-editor: markdown
-dateCreated: 2021-04-07T18:20:39.627Z
 ---
 
 |Prep time | Cook time | Total time | Serves |

@@ -1,11 +1,5 @@
 ---
 title: Microsoft Office Profile Fixer
-description: 
-published: true
-date: 2021-04-08T15:11:05.653Z
-tags: microsoft, powershell, microsoft windows, microsoft office
-editor: markdown
-dateCreated: 2021-04-08T15:11:05.653Z
 ---
 
 # Usage

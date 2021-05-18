@@ -1,11 +1,5 @@
 ---
 title: Artisan Dough for Bread
-description: 
-published: true
-date: 2021-04-07T17:57:28.732Z
-tags: bread, recipe
-editor: markdown
-dateCreated: 2021-04-07T17:53:01.133Z
 ---
 
 This recipe was transcribed from a scan from some unknown book.

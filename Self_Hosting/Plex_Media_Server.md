@@ -1,11 +1,5 @@
 ---
 title: Plex Media Server
-description: 
-published: true
-date: 2021-04-07T16:39:23.772Z
-tags: plex media server, plex, filebot
-editor: markdown
-dateCreated: 2021-04-07T16:32:25.722Z
 ---
 
 I run the [Plex media server](https://www.plex.tv/) on one of my machines. With [FileBot](https://www.filebot.net/) to manage renaming and organizing media for me, this is a really simple solution.

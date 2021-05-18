@@ -1,11 +1,5 @@
 ---
 title: Microsoft Windows Tips & Tricks
-description: 
-published: true
-date: 2021-04-08T15:12:12.734Z
-tags: microsoft, windows, tips & tricks
-editor: markdown
-dateCreated: 2021-04-08T15:05:00.071Z
 ---
 
 * [Windows 7](/Sysadmin/Microsoft_Windows/Tips_&_Tricks/Windows_7)

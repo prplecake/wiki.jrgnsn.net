@@ -1,11 +1,5 @@
 ---
 title: Tofu Bacun
-description: 
-published: true
-date: 2021-04-07T18:27:27.490Z
-tags: tofu
-editor: markdown
-dateCreated: 2021-04-07T18:27:22.224Z
 ---
 
 ```

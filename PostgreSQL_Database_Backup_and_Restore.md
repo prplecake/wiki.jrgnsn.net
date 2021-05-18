@@ -1,11 +1,5 @@
 ---
 title: PostgreSQL Database Backup and Restore
-description: 
-published: true
-date: 2021-04-07T17:37:20.781Z
-tags: postgresql
-editor: markdown
-dateCreated: 2021-04-07T17:37:14.149Z
 ---
 
 # Backup

@@ -1,11 +1,5 @@
 ---
 title: Microsoft Windows
-description: 
-published: true
-date: 2021-04-08T14:54:59.921Z
-tags: microsoft, windows
-editor: markdown
-dateCreated: 2021-04-08T14:54:59.921Z
 ---
 
 * [PowerShell Scripts & Tips](/Sysadmin/Microsoft_Windows/PowerShell_Scripts_&_Tips)

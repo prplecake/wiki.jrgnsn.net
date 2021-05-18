@@ -1,11 +1,5 @@
 ---
 title: Raspberry Pi
-description: 
-published: true
-date: 2021-04-07T23:32:34.355Z
-tags: raspberry-pi
-editor: markdown
-dateCreated: 2021-04-07T23:32:34.355Z
 ---
 
 # Headless Setup

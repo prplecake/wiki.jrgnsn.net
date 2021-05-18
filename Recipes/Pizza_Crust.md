@@ -1,11 +1,5 @@
 ---
 title: Pizza Crust
-description: 
-published: true
-date: 2021-04-07T18:25:00.672Z
-tags: recipe, baking, pizza
-editor: markdown
-dateCreated: 2021-04-07T18:24:55.008Z
 ---
 
 This recipe makes enough for 1 pizza crust.

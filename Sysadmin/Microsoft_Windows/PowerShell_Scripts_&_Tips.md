@@ -1,11 +1,5 @@
 ---
 title: PowerShell Script & Tips
-description: 
-published: true
-date: 2021-04-08T14:58:10.460Z
-tags: microsoft, windows, powershell, pwsh
-editor: markdown
-dateCreated: 2021-04-08T14:58:10.460Z
 ---
 
 # Quickly Create Basic Authorization Header

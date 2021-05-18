@@ -1,11 +1,5 @@
 ---
 title: Recipes
-description: A list of recipes.
-published: true
-date: 2021-04-07T18:27:46.416Z
-tags: recipes
-editor: markdown
-dateCreated: 2021-04-07T18:02:50.602Z
 ---
 
 * [Artisan Dough for Bread](/Recipes/Artisan_Dough_for_Bread)

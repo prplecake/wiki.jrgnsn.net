@@ -1,11 +1,5 @@
 ---
 title: Sublime Text
-description: 
-published: true
-date: 2021-04-07T18:32:26.263Z
-tags: sublime text
-editor: markdown
-dateCreated: 2021-04-07T18:32:20.555Z
 ---
 
 # `Preferences.sublime-settings - User`

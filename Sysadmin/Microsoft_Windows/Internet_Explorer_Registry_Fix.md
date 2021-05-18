@@ -1,11 +1,5 @@
 ---
 title: Internet Explorer Registry Fix
-description: 
-published: true
-date: 2021-04-08T15:08:53.783Z
-tags: microsoft, windows, internet explorer, registry
-editor: markdown
-dateCreated: 2021-04-08T15:08:53.783Z
 ---
 
 ```

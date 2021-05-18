@@ -1,11 +1,5 @@
 ---
 title: Mastodon
-description: 
-published: true
-date: 2021-04-07T17:37:23.683Z
-tags: mastodon, fediverse
-editor: markdown
-dateCreated: 2021-04-07T17:36:13.428Z
 ---
 
 # PgHero Issues
