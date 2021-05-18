@@ -6,14 +6,8 @@ title: Pi-hole
 
 * [Incidents](Pi-hole/Incidents)
 
-# 2 Million Domain Blocklist
-
-```
-curl -sSL https://raw.githubusercontent.com/Kevin-De-Koninck/pi-hole-helpers/master/expand-block-list.sh | bash
-```
-
-[Source](https://github.com/Kevin-De-Koninck/pi-hole-helpers)
 
 # See also
 
+* [OpenVPN](Pi-hole/OpenVPN)
 * [Unbound](Pi-hole/Unbound)
