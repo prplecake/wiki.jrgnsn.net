@@ -1,1 +1,1 @@
-This is my nice sidebar.
+* [[Self Hosting|Self_Hosting]]
