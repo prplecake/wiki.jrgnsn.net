@@ -9,6 +9,7 @@ I self-host several different services. The installation processes I used, *gotc
 * [CalibreWeb](/Self_Hosting/CalibreWeb)
 * [CGit](/Self_Hosting/CGit)
 * [CyTube](/Self_Hosting/CyTube) - https://cytube.splat.soy
+* [Gollum](/Self_Hosting/Gollum) - a simple, Git-powered wiki
 * [Grafana](/Self_Hosting/Grafana)
 * [Jekyll blog](/Self_Hosting/Jekyll_blog) - https://jrgnsn.net
 * [live.jrgnsn.net](/Self_Hosting/live_jrgnsn_net) - https://live.jrgnsn.net
