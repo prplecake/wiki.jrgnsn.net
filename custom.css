@@ -1,3 +1,8 @@
-div#wiki-sidebar {
-	display:none;
+@media print {
+	div#wiki-toc-main {
+		display:none;
+	}
+	div#wiki-sidebar {
+		display:none;
+	}
 }
