@@ -1,1 +1,1 @@
-This is my nice footer.
+CC-BY-NC-SA 4.0
