@@ -77,7 +77,7 @@ For masto-fe, add the following CSS to `common.css`:
 `common.css` might be found somewhere like `/opt/pleroma/lib/$PLEROMA_VERSION/priv/static/core/common.css`
 
 
-## [[Setting up Object Storage|/Self_Hosted/Pleroma/Setting_up_Object_Storage]] 
+## [[Setting up Object Storage|/Self_Hosting/Pleroma/Setting_up_Object_Storage]] 
 
 # Customization
 
