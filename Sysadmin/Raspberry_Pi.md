@@ -25,7 +25,7 @@ network={
 
 # Additional Information
 
-* https://www.raspberrypi.org/documentation/configuration/wireless/headless.md
+* <https://www.raspberrypi.org/documentation/configuration/wireless/headless.md>
 
 # See also
 
