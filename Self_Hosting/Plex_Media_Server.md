@@ -20,15 +20,13 @@ As stated on the forum post:
 * TV Shows will be sorted into `{output}/TV Shows/Name/Season N/Name - S00E00 - Title.ext`
 * Music will be sorted into `{output}/Music/Artist/Album/Artist - Title.ext`
 
-> **Note:** The above directions are now obsolete on my media server. I've switched to a slightly different script to "sync" torrents from my seedbox.
-{.is-info}
-
+**Note:** The above directions are now obsolete on my media server. I've switched to a slightly different script to "sync" torrents from my seedbox.
 
 # Automation
 
-I've got scripts set up with cron to automate pulling stuff down from my seedbox. You can find `amc.sh` and `lftp_sync` [at the repository](https://git.sr.ht/~mjorgensen/media-server-scripts).
+I've got scripts set up with cron to automate pulling stuff down from my seedbox. You can find `amc.sh` and `lftp_sync` [at the repository](https://github.com/prplecake/media-server-scripts).
 
-You can also find some [rtorrent customizations](https://git.sr.ht/~mjorgensen/media-server-scripts/tree/master/seedbox/rtorrent.rc.custom) in that repo. These customizations create a hardlink to completed torrents. This allows me to continue to seed torrents while maintaining the ability to keep track of what's been downloaded from the seedbox.
+You can also find some [rtorrent customizations](https://github.com/prplecake/media-server-scripts/blob/master/seedbox/rtorrent.rc.custom) in that repo. These customizations create a hardlink to completed torrents. This allows me to continue to seed torrents while maintaining the ability to keep track of what's been downloaded from the seedbox.
 
 ## `lftp_sync`
 
@@ -38,5 +36,5 @@ I feel this is secure enough, since my ISP would only ever see SSH traffic, whic
 
 # See also
 
-* [media-server-scripts](https://git.sr.ht/~mjorgensen/media-server-scripts)
+* [media-server-scripts](https://github.com/prplecake/media-server-scripts)
 * [FFmpeg Tips & Tricks](/FFmpeg_Tips_&_Tricks)
