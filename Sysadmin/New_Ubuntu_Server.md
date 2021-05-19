@@ -13,11 +13,11 @@ Install favorite packages:
 apt install git tmux zsh thefuck vim
 ```
 
-Add my user and set up default shell, add to `sudo` group, then switch to it:
+Add my user and set up default shell, add to `sudo` group, then switch to it. As root:
 ```sh
-sudo adduser mjorgensen
-sudo chsh -s /bin/zsh mjorgensen
-sudo usermod -G sudo mjorgensen
+adduser mjorgensen
+chsh -s /bin/zsh mjorgensen
+usermod -G sudo mjorgensen
 su mjorgensen
 ```
 
@@ -29,7 +29,7 @@ $ ~/.dotfiles/scripts/bootstrap
 
 # Minimal Installation Gotchas
 
-Ubuntu 18.04 Minimal doesn't seem to have the right tools to set locale correctly.
+Ubuntu 18.04 Minimal doesn't seem to have the right tools to set locale correctly. As root:
 ```sh
 apt install locales tzdata
 dpkg-reconfigure locales
