@@ -1,3 +1,7 @@
+---
+title: Infrastructure Notes
+---
+
 # 2019
 
 * [October 2019](Infrastructure_Notes/October_2019)
