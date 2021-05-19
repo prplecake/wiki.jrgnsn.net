@@ -33,3 +33,6 @@ WorkingDirectory=/home/calibre/calibre-web
 [Install]
 WantedBy=multi-user.target
 ```
+
+# See also
+* <https://github.com/janeczku/calibre-web>
