@@ -41,4 +41,4 @@ config :ex_aws, :s3,
 **Note:** As far as I know, it's not possible to configure object storage with Pleroma admin-fe.
 
 # See also
-* [[Minio user policy|/Self_Hosted/Pleroma/Minio_user_policy]]
+* [[Minio user policy|/Self_Hosting/Pleroma/Minio_user_policy]]
