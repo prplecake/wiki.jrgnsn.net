@@ -7,7 +7,7 @@ title: Sysadmin Knowledge Base
 * [PostgreSQL Database Initialization](/PostgreSQL_Database_Initialization)
 * [PostgreSQL Database Backup and Restore](/PostgreSQL_Database_Backup_and_Restore)
 * [FastMail Monospaced Plain Text Message Display](/FastMail_Monospaced_Plain_Text_Message_Display)
-* [Import/Export PGP key pair](/Import/Export_PGP_key_pair)
+* [Import/Export PGP key pair](/Import_Export_PGP_key_pair)
 * [Helpful Regular Expressions](/Helpful_Regular_Expressions)
 * [PHP Scripts](/PHP_Scripts)
 * [Python](Python)
