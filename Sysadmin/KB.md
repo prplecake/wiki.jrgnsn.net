@@ -22,7 +22,7 @@ title: Sysadmin Knowledge Base
 
 * [Basic Tips and Tricks](KB/Linux/Basic_Tips_and_Tricks)
 * [Create A Bootable Debian USB Install Disk on macOS/](KB/Create_A_Bootable_Debian_USB_Install_Disk_on_macOS)
-* [debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used.)](KB/debconf:_(No_usable_dialog-like_program_is_installed,_so_the_dialog_based_frontend_cannot_be_used))
+* [debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used.)](KB/debconf_(No_usable_dialog-like_program_is_installed_so_the_dialog_based_frontend_cannot_be_used))
 
 # SMTP 
 
