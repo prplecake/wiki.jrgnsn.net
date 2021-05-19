@@ -42,7 +42,9 @@ The vmxnet driver is no longer supported on kernels 3.3 and greater. Please upgr
 Immediately I'm noticing cinnamon uses _a lot_ of CPU. I'm missing some graphics drivers.
 
 I simply had to check the **Accelerate 3D graphics** in the VM Settings.
+
 ![Linux mint vmware accelerate 3d graphics](/Project_Notes/Linux_Mint_19.3_Installation_Notes/Linux_mint_vmware_accelerate_3d_graphics.png)
+
 I also increased the amount of Graphics memory from 128 MB to 768 MB.
 
 ## Changing apt sources
