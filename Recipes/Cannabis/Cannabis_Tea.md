@@ -2,7 +2,7 @@
 title: Cannabis Tea
 ---
 
-1. [[Decarb cannabis|/Recipe/Cannabis/Decarboxylation]].<br>I usually use about 0.5g fresh ground flower + 1-2g shake/stems.
+1. [[Decarb cannabis|/Recipes/Cannabis/Decarboxylation]].<br>I usually use about 0.5g fresh ground flower + 1-2g shake/stems.
 2. Let cool for a second. Start boiling some water.<br>I usually boil two mug-fulls of water. By the time I'm done boiling I'm usually left with about one mug-full of water.
 3. Coat cannabis in a little bit of fat.<br>I've used Earth Balance, but coconut oil should work, too. I used about two teaspoons, just enough to form a very loose ball.
 4. Add cannabis to tea ball or tea bag if you don't want to have to strain it later.
