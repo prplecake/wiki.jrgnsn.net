@@ -43,8 +43,7 @@ Since I use Nginx, I had to modify the following line in my site configuration f
 client_max_body_size 26M;
 ```
 
-> I made it 26 MB instead of 25 MB in case I were to ever try to upload a 25 MB file, the rest of the request doesn't cause me to exceed the max.
-{.is-info}
+I made it 26 MB instead of 25 MB in case I were to ever try to upload a 25 MB file, the rest of the request doesn't cause me to exceed the max.
 
 Then I needed to change the FCGI settings for php-fpm.
 
@@ -58,8 +57,7 @@ upload_max_filesize = 25M
 ...
 ```
 
-> **Note:** You may need to change the `post_max_size = 25M` to `26M` if you run into issues uploading a file that's *exactly* 25MB large.
-{.is-info}
+**Note:** You may need to change the `post_max_size = 25M` to `26M` if you run into issues uploading a file that's *exactly* 25MB large.
 
 
 Restart nginx and php-fpm for the changes to take effect:
