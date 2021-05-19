@@ -6,7 +6,7 @@ title: Eleven Technical Papers Every Programmer Should Read (At Least Twice)
 2. [Dynamo: Amazon's Highly Available Key-value Store](Files/Dynamo_amazons_highly_available_key_value_store.pdf) (pdf) - Giuseppe Decandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall, and Werner Vogels
 3. [Equal Rights for Functional Objects or, The More Things Change, The More They Are the Same](Files/Equal_rights_for_function_objects.pdf) (pdf) - Henry G. Baker
 4. [Fundamental Concepts in Programming Languages](Files/Fundamental_concepts_in_programming_languages.pdf) (pdf) - Christopher Strachey
-5. [On Unterstanding Types, Data Abstraction, and Polymorphism](Files/On_understanding_types_data_abstraction_and_polymorphism.pdf) (pdf) - Luca Cardelli and Peter Wegner
+5. [On Understanding Types, Data Abstraction, and Polymorphism](Files/On_understanding_types_data_abstraction_and_polymorphism.pdf) (pdf) - Luca Cardelli and Peter Wegner
 6. [Organizing Programs Without Classes](Files/Organizing_programs_without_classes.pdf) (pdf) - David Ungar, Craig Chambers, Bey-Wei Chang, and Urs Holzle
 7. [Out of the Tar Pit](Files/Out_of_the_tar_pit.pdf) (pdf) - Ben Moseley and Peter Marks
 8. [Predicate Dispatching: A Unified Theory of Dispatch](Files/Predicate_dispatch_a_unified_theory_of_dispatch.pdf) (pdf) - Michael Ernst, Craig Kaplan, and Craig Chambers
