@@ -10,15 +10,15 @@ Version...Ubuntu 18.04 Minimal
 
 Install favorite packages:
 ```sh
-# apt install git tmux zsh thefuck vim
+apt install git tmux zsh thefuck vim
 ```
 
 Add my user and set up default shell, add to `sudo` group, then switch to it:
 ```sh
-# adduser mjorgensen
-# chsh -s /bin/zsh mjorgensen
-# usermod -G sudo mjorgensen
-# su mjorgensen
+sudo adduser mjorgensen
+sudo chsh -s /bin/zsh mjorgensen
+sudo usermod -G sudo mjorgensen
+su mjorgensen
 ```
 
 Then I clone my dotfiles and use them:
@@ -31,6 +31,6 @@ $ ~/.dotfiles/scripts/bootstrap
 
 Ubuntu 18.04 Minimal doesn't seem to have the right tools to set locale correctly.
 ```sh
-# apt install locales tzdata
-# dpkg-reconfigure locales
+apt install locales tzdata
+dpkg-reconfigure locales
 ```
