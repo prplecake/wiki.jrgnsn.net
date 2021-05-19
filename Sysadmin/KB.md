@@ -10,7 +10,7 @@ title: Sysadmin Knowledge Base
 * [Import/Export PGP key pair](/Import_Export_PGP_key_pair)
 * [Helpful Regular Expressions](/Helpful_Regular_Expressions)
 * [Raspberry Pi](Raspberry_Pi)
-* [Sysadmin/Nginx|Nginx](Nginx)
+* [Nginx](Nginx)
 * [Torrenting](/Torrenting)
 * [Git One-Liners](KB/Git_One-Liners)
 
