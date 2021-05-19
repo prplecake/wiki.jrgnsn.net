@@ -5,4 +5,4 @@
 
 # KB 
 
-* [[Make TextEdit open with a black file by default|/Sysadmin/macOS/Make_TextEdit_open_with_a_black_file_by_default]]
+* [[Make TextEdit open with a blank file by default|/Sysadmin/macOS/Make_TextEdit_open_with_a_blank_file_by_default]]
