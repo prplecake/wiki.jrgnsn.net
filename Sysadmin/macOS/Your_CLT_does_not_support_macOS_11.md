@@ -1,3 +1,7 @@
+---
+title: Your CLT does not support macOS 11
+---
+
 ```
 Error: Your CLT does not support macOS 11.
 It is either outdated or was modified.
