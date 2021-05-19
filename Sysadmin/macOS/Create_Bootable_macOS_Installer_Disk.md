@@ -1,3 +1,7 @@
+---
+title: Create Bootable macOS Installer Disk
+---
+
 1. Connect an USB drive to your Mac. In these examples I'll use _UNTITLED_ as the name of the USB drive. Take note if your drive is named something else.
 2. Launch a terminal.
 3. Run the following command:
