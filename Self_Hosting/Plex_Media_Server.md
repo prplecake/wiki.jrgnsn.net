@@ -28,6 +28,27 @@ I've got scripts set up with cron to automate pulling stuff down from my seedbox
 
 You can also find some [rtorrent customizations](https://github.com/prplecake/media-server-scripts/blob/master/seedbox/rtorrent.rc.custom) in that repo. These customizations create a hardlink to completed torrents. This allows me to continue to seed torrents while maintaining the ability to keep track of what's been downloaded from the seedbox.
 
+## `amc.sh``
+
+I keep mine at `~/amc.sh`
+
+```shell
+#!/bin/sh -xu
+filebot -script fn:amc --output "/mnt/Media" --action copy --conflict skip \
+    -non-strict --log-file amc.log --def excludeList=".excludes" unsorted=y music=y artwork=y "$@"
+```
+
+### Additional Options 
+
+The following are useful for small episodes.
+* `--def minFileSize=0` - Only process video files larger than the given number (in bytes). Defaults to 50 MB.
+* `--def minLengthMS=0` - Only process videos longer than the given number (in milliseconds). Defaults to 10 minutes.
+
+### See also 
+* [FileBot CLI usage manual](https://www.filebot.net/cli.html)
+* [FileBot - [Docs] Use --mapper expressions for AniDB / TheTVDB cross-entity matching](https://www.filebot.net/forums/viewtopic.php?t=10996)
+* [FileBot - Automated Media Center](https://www.filebot.net/forums/viewtopic.php?t=215)
+
 ## `lftp_sync`
 
 `lftp_sync` is a script to automate downloading completed torrents from my seedbox. It uses `lftp`, which is widely available on Linux distros, to download over the SSH protocol. In the script you'll notice there's variables for a username and password, but I instead have the seedbox SSH details configured in `~/.ssh/config`.
