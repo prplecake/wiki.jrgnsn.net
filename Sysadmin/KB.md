@@ -9,8 +9,6 @@ title: Sysadmin Knowledge Base
 * [FastMail Monospaced Plain Text Message Display](/FastMail_Monospaced_Plain_Text_Message_Display)
 * [Import/Export PGP key pair](/Import_Export_PGP_key_pair)
 * [Helpful Regular Expressions](/Helpful_Regular_Expressions)
-* [PHP Scripts](/PHP_Scripts)
-* [Python](Python)
 * [Raspberry Pi](Raspberry_Pi)
 * [Sysadmin/Nginx|Nginx](Nginx)
 * [Torrenting](/Torrenting)
