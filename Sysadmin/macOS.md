@@ -5,5 +5,6 @@
 
 # KB 
 
-* [[Make TextEdit open with a blank file by default|/Sysadmin/macOS/Make_TextEdit_open_with_a_blank_file_by_default]]
-* [[Your CLT does not support macOS 11|/Sysadmin/macOS/Your_CLT_does_not_support_macOS_11]]
+* [Create Bootable macOS Installer Disk](/macOS/Create_Bootable_macOS_Installer_Disk)
+* [Make TextEdit open with a blank file by default](macOS/Make_TextEdit_open_with_a_blank_file_by_default)
+* [Your CLT does not support macOS 11](macOS/Your_CLT_does_not_support_macOS_11)
