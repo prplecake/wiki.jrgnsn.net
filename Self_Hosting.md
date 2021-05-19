@@ -31,6 +31,7 @@ I self-host several different services. The installation processes I used, *gotc
 
 * [DokuWiki](/Self_Hosting/DokuWiki) - the old wiki
 * [FreshRSS](/Self_Hosting/FreshRSS)
+* [Ghost blog](/Self_Hosting/Ghost_blog)
 * [Kanboard](/Self_Hosting/KanBoard)
 * [Mastodon](/Self_Hosting/Mastodon)
 * [Matrix Server](/Self_Hosting/Matrix_Server) (matrix-synapse)
