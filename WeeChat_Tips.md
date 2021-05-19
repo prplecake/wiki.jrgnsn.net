@@ -26,12 +26,11 @@ ZNC detach and buffer close:
 /alias add /dc /znc detach $channel; /close
 ```
 
-> Note: this will only work once you enable send_unknown_commands:
-{.is-info}
+**Note:** this will only work once you enable send_unknown_commands:
 
 
 ```
 /set irc.network.send_unknown_commands on
 ```
 
-* Ref: https://wiki.znc.in/Weechat#Enabling_.2FZNC_and_other_raw_commands
+* Ref: <https://wiki.znc.in/Weechat#Enabling_.2FZNC_and_other_raw_commands>
