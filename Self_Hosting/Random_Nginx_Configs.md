@@ -138,6 +138,3 @@ server {
 
 }
 ```
-
-# See also
-* [nginx](https://wiki-dev.jrgnsn.net/t/nginx?sort=title) (tag)
