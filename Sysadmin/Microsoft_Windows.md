@@ -14,3 +14,7 @@ title: Microsoft Windows
 # Microsoft SQL Server
 
 * [Backing Up SQL Server Databases](https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/create-a-full-database-backup-sql-server?view=sql-server-2017)
+
+# Microsoft Windows
+
+* [Microsoft Office Profile Fixer](/Sysadmin/Microsoft_Windows/Microsoft_Office_Profile_Fixer)
