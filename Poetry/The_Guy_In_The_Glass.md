@@ -1,3 +1,7 @@
+---
+title: The Guy In The Glass
+---
+
 <center><em>By Dale Wimbrow, (c) 1934</em>
 <blockquote>When you get what you want in your struggle for pelf,<br />
 And the world makes you King for a day,<br />
