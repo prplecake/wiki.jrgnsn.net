@@ -3,7 +3,7 @@ title: Izzy's Excellent Vegan Chocolate Chip Cookies
 ---
 
 # Ingredients
-|--:|:--|
+
 |1/2 cup | refined coconut oil (as room temperature SOLID)|
 |1 cup | brown sugar|
 |1/4 cup | almond milk|
