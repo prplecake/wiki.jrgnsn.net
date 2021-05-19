@@ -12,8 +12,7 @@ Plugin('RT::IR');
 
 # Nginx config
 
-> To use this configuration, you’ll have to create the directory `/var/log/nginx/rt`.
-{.is-warning}
+To use this configuration, you’ll have to create the directory `/var/log/nginx/rt`.
 
 
 ```nginx
