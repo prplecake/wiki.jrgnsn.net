@@ -1,5 +1,5 @@
 ---
-title: Pi-hole Incident: March 2020
+title: "Pi-hole Incident: March 2020"
 ---
 
 I set up a Pi-hole on a much better server than my [Raspberry Pi](/Sysadmin/Raspberry_Pi)s have ever made.
