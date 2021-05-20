@@ -4,7 +4,7 @@
 
 First of all, make sure you've [[registered your nick|IRC]]. Then, be sure the SASL module is loaded:
 
-    > /query sasl
+    > /query *status
     > loadmod sasl
     <*status> Loaded module [sasl] [/home/znc/.local/lib/znc/sasl.so]
 
