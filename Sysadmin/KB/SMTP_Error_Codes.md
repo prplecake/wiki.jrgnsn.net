@@ -31,6 +31,7 @@ title: SMTP Error Codes
 | 502 | Command not implemented |
 | 503 | Bad sequence of commands |
 | 504 | Command parameter not implemented |
+| 535 | Authentication unsuccessful |
 | 550 | Requested action not taken; mailbox unavailable |
 | 551 | User not local; prease try ... |
 | 552 | Requested mail action aborted; exceeded storage allocation |
