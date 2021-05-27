@@ -45,3 +45,23 @@ I then went through Pleroma's own security hardening guide: <https://docs-develo
 3. Copy the above mentioned files back to their original position. 
 4. Run `sudo -Hu postgres pg_restore -d <pleroma_db> -v -1 </path/to/backup_location/pleroma.pgdump>`
 5. Restart the Pleroma service.
+
+# Upgrading your instance
+
+**Note:** Be sure to check for any additional requirements to satisfy
+the upgrade: <https://pleroma.social/announcements/>
+
+```bash
+# stop pleroma
+$ sudo systemctl stop pleroma
+# cd to pleroma directory
+$ cd /opt/pleroma
+# pull changes
+$ sudo -Hu pleroma git pull
+# update deps
+$ sudo -Hu MIX_ENV=prod mix deps.get
+# run migrations (if any)
+$ sudo -Hu MIX_ENV=prod mix ecto.migrate
+# start pleroma
+$ sudo systemctl start pleroma
+```
