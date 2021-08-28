@@ -2,7 +2,7 @@
 title: Simple Garlic Bread
 ---
 
-Using the [Pizza Crust](/Pizza_Crust) recipe:
+Using the [Pizza Crust](/Recipes/Pizza_Crust) recipe:
 
 # Attempt 1
 
