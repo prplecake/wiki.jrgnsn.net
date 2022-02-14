@@ -10,10 +10,10 @@ This assumes you've already gone through the main on-boarding process and have s
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-**Get [dotfiles](https://git.sr.ht/~mjorgensen/dotfiles):**
+**Get [dotfiles](https://github.com/prplecake/dotfiles):**
 
 ```
-git clone https://git.sr.ht/~mjorgensen/dotfiles ~/.dotfiles
+git clone https://github.com/prplecake/dotfiles ~/.dotfiles
 cd ~/.dotfiles; git submodule update --init
 ./scripts/install.sh
 ```
