@@ -1,7 +1,3 @@
----
-title: Sublime Text
----
-
 # `Preferences.sublime-settings - User`
 
 ```json
