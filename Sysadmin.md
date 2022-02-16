@@ -14,13 +14,13 @@ This space is to collect helpful things, commands, tips, and tricks a sysadmin s
 
 ## Assorted Configurations
 
-* [KB/Sublime Text](/Sysadmin/KB/Sublime_Text)
+* [[/Sysadmin/KB/Sublime Text]]
 
 # Operating Systems
 
-* [Linux](/Sysadmin/Linux)
-* [macOS](/Sysadmin/macOS)
-* [Microsoft Windows](/Sysadmin/Microsoft_Windows)
+* [[/Sysadmin/Linux]]
+* [[/Sysadmin/macOS]]
+* [[/Sysadmin/Microsoft Windows]]
 
 # Web Hosting Software
 
