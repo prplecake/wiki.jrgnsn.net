@@ -10,12 +10,20 @@ This space is to collect helpful things, commands, tips, and tricks a sysadmin s
 
 [[_TOC_]]
 
+# Miscellaneous
+
+## Assorted Configurations
+
+* [KB/Sublime Text](/Sysadmin/KB/Sublime_Text)
+
 # Operating Systems
 
 * [Linux](/Sysadmin/Linux)
 * [macOS](/Sysadmin/macOS)
 * [Microsoft Windows](/Sysadmin/Microsoft_Windows)
 
-# Assorted Configurations
+# Web Hosting Software
 
-* [KB/Sublime Text](/Sysadmin/KB/Sublime_Text)
+## Apache Tomcat
+
+* [[Sysadmin/KB/Redirecting Default Tomcat Homepage]]
