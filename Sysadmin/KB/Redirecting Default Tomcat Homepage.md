@@ -1,5 +1,7 @@
 `CATALINA_HOME\webapps\ROOT` is the default webapp containing the default administrator's index page. It's possible that issues can arise by renaming your webapp to ROOT, so a better method is to simply redirect to your other app.
 
+[[/uploads/Sysadmin/KB/Redirecting Default Tomcat Homepage/IT-KB-20191010-094645.png|alt]]
+
 This can be accomplished by creating an **index.html** inside `$CATALINA_HOME\webapps\ROOT`.
 You don't need to remove the index.jsp that's at that location, index.html will override it.
 
