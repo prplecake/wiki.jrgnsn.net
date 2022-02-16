@@ -23,6 +23,7 @@ This space is to collect helpful things, commands, tips, and tricks a sysadmin s
 # Operating Systems
 
 * [[/Sysadmin/Linux]]
+  * [[/Sysadmin/KB/Join Debian-based System to Active Directory Domain]]
 * [[/Sysadmin/macOS]]
 * [[/Sysadmin/Microsoft Windows]]
   * [[/Sysadmin/KB/EventID 10016]]
