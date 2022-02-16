@@ -25,6 +25,7 @@ This space is to collect helpful things, commands, tips, and tricks a sysadmin s
 * [[/Sysadmin/Linux]]
 * [[/Sysadmin/macOS]]
 * [[/Sysadmin/Microsoft Windows]]
+  * [[/Sysadmin/KB/EventID 10016]]
 
 # Web Hosting Software
 
