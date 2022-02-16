@@ -2,8 +2,8 @@
 title: Linux
 ---
 
-* [[Common Commands|/Sysadmin/Linux/Common_Commands]]
-* [[Useful Scripting Snippets|/Sysadmin/Linux/Useful_Scripting_Snippets]]
-* [[Debian|/Sysadmin/Linux/Debian]]
-* [[Ubuntu|/Sysadmin/Linux/Ubuntu]]
-* [[SystemRescueCD|Sysadmin/SystemRescueCD]]
+* [[/Sysadmin/Linux/Common Commands]]
+* [[/Sysadmin/Linux/Useful Scripting Snippets]]
+* [[/Sysadmin/Linux/Debian]]
+* [[/Sysadmin/Linux/Ubuntu]]
+* [[/Sysadmin/SystemRescueCD]]
