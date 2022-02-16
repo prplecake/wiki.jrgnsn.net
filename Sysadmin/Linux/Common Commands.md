@@ -1,7 +1,3 @@
----
-title: Common Commands
----
-
 # apt
 
 ## Install Debian Package via CLI
