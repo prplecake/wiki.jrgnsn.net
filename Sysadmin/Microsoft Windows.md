@@ -1,7 +1,3 @@
----
-title: Microsoft Windows
----
-
 * [PowerShell Scripts & Tips](/Sysadmin/Microsoft_Windows/PowerShell_Scripts_&_Tips)
 * [Useful Tools](/Sysadmin/Microsoft_Windows/Useful_Tools)
 * [Tips & Tricks](/Sysadmin/Microsoft_Windows/Tips_&_Tricks)
