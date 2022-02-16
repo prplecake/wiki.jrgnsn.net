@@ -26,4 +26,6 @@ This space is to collect helpful things, commands, tips, and tricks a sysadmin s
 
 ## Apache Tomcat
 
+* [[Sysadmin/KB/Publishing Java Web Application]]
 * [[Sysadmin/KB/Redirecting Default Tomcat Homepage]]
+* [[Sysadmin/KB/Set up Apache Tomcat]]
