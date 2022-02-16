@@ -18,9 +18,10 @@ $ sudo gem install gollum
 ## Prep the remote repository
 
 ```
-$ sudo mkdir -p /path/to/wiki
-$ sudo chown -R git:git /path/to/wiki
-$ sudo -Hu git git init --bare
+sudo mkdir -p /path/to/wiki
+sudo chown -R git:git /path/to/wiki
+cd /path/to/wiki
+sudo -Hu git git init --bare
 ```
 
 ## Systemd Service
@@ -33,6 +34,7 @@ After=network.target
 [Service]
 User=git
 ExecStart=/usr/local/bin/gollum --no-edit "/path/to/wiki"
+Restart=on-failure
 ```
 
 ## Nginx Configuration
