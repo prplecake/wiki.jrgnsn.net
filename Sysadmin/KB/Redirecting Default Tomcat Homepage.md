@@ -16,7 +16,7 @@ You don't need to remove the index.jsp that's at that location, index.html will 
 </html>
 ```
 
-For example, to redirect example.com/ to /blog, the `<meta>`` tag would look like this:
+For example, to redirect example.com/ to /blog, the `<meta>` tag would look like this:
 
 ```html
 <meta http-equiv="refresh" content="0;URL=/blog" />
