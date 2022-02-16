@@ -10,6 +10,10 @@ This space is to collect helpful things, commands, tips, and tricks a sysadmin s
 
 [[_TOC_]]
 
+# Database Server Software
+
+* [[/Sysadmin/KB/Changing Microsoft SQL Server Instance Name]]
+
 # Miscellaneous
 
 ## Assorted Configurations
