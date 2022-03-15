@@ -13,4 +13,4 @@ title: Recipes
 
 ---
 
-* [[/Recipes/Other Cooking Tips/]]
+* [[/Recipes/Other Cooking Tips]]
