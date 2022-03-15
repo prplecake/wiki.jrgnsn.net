@@ -11,6 +11,6 @@ title: Recipes
 * [Vegan Pecan Pie](/Recipes/Vegan_Pecan_Pie)
 * [The World's Easiest Vegan Cinnamon Rolls](/Recipes/The_World's_Easiest_Vegan_Cinnamon_Rolls)
 
----
+## Other Cooking Tips
 
-* [[/Recipes/Other Cooking Tips]]
+* [[/Ninja Foodie 5-in-1 Indoor Grill]]
