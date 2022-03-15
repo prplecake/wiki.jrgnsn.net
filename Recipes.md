@@ -10,3 +10,7 @@ title: Recipes
 * [Tofu Bacun](/Recipes/Tofu_Bacun)
 * [Vegan Pecan Pie](/Recipes/Vegan_Pecan_Pie)
 * [The World's Easiest Vegan Cinnamon Rolls](/Recipes/The_World's_Easiest_Vegan_Cinnamon_Rolls)
+
+---
+
+* [[/Recipes/Other Cooking Tips/]]
